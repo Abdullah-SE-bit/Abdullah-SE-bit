@@ -33,7 +33,7 @@ High-performance **C++/SFML** application leveraging **Graphs, Trees**, and adva
 Backend-centric system built with clean **MVC architecture**, deeply aligned with **GRASP** and **GoF patterns** to ensure maintainability, scalability, and extensibility.
 
 ## Connect With Me
-- LinkedIn: **[Add yours here](https://www.linkedin.com/)**
+- LinkedIn: **(https://www.linkedin.com/in/abdullah-adnan-660bb1350/)**
 - Email: **chabdullah3506@gmail.com**
 
 If you’re looking for a developer who can craft **secure, scalable backend systems** and **data-optimized full-stack solutions**, let’s connect.
